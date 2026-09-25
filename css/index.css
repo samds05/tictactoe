@@ -1,0 +1,309 @@
+body {
+orientation: portrait;
+}
+
+
+#asdf {
+font-size: 24px;
+color: yellow;
+text-align: center;
+}
+
+
+#fdiv {
+width:  100%;
+}
+#lllo {
+background: pink;
+width: auto;
+height: auto;
+border-width: 3px;
+border-style: solid;
+border-color: orange;
+
+}
+#gamee {
+text-align: center;
+color: orange;
+font-size: 20px;
+padding: 0px;
+margin: 10px 0px;
+}
+
+#seca , #secb {
+height: auto;
+width: 45%;
+display: block;
+margin-top: 25px;
+text-align: center;
+background: none;
+display: inline;
+}
+
+#secb {
+float: right;
+}
+
+#seca {
+float: left;
+}
+
+#o , #w {
+display: inline;
+text-align: center;
+}
+
+.inpp {
+width: 90%;
+border-style: solid;
+border-width: 1px;
+border-color: black;
+outline: none;
+font-size: 15px;
+font-weight: bold;
+height: 20px;
+margin-top: 10px;
+font-family: monospace;
+}
+
+#tttt {
+display: none;
+margin-bottom: -1px;
+}
+
+#spl:focus {
+border-color: blue;
+color: blue;
+}
+
+#fpl:focus {
+border-color: red;
+color: red;
+}
+
+.kl {
+padding: 0px;
+margin: 0px;
+margin-top: 20px;
+}
+
+#fcb , #scb {
+padding: 5px;
+height: 20px;
+width: 20px;
+}
+
+
+#start {
+display: block;
+margin-top: 50px;
+margin-left: 30%;
+padding: 10px;
+background: green;
+color: yellow;
+width: 150px;
+border-radius: 10px;
+height: 50px;
+font-size: 20px;
+display: inline;
+}
+
+#ttt {
+width: 354px;
+height: 354px;
+background: none;
+text-align: center;
+margin-top: 20px;
+}
+
+#pl2 , #pll2 {
+float: right;
+margin-right: 10px;
+}
+
+#pl1 , #pll1 {
+margin-left: 10px;
+}
+
+hr {
+padding: 0px;
+margin: 0px;
+}
+
+#z {
+border-bottom-width: 1px;
+border-right-width: 1px;
+border-top-width: 0px;
+border-left-width: 0px;
+float: left;
+background-image: url("../imga/a (1).jpg");
+}
+
+#y {
+border-bottom-width: 1px;
+border-right-width: 1px;
+border-top-width: 0px;
+border-left-width: 1px;
+float: right;
+margin-right: 1px;
+margin-left: -1px;
+background-image: url("../imga/a (2).jpg");
+}
+
+#x {
+border-bottom-width: 1px;
+border-right-width: 0px;
+border-top-width: 0px;
+border-left-width: 1px;
+float: right;
+background-image: url("../imga/a (3).jpg");
+}
+#w {
+border-bottom-width: 1px;
+border-right-width: 1px;
+border-top-width: 1px;
+border-left-width: 0px;
+float: left;
+margin-top: 1px;
+background-image: url("../imga/a (4).jpg");
+}
+
+#v {
+border-bottom-width: 1px;
+border-right-width: 1px;
+border-top-width: 1px;
+border-left-width: 1px;
+float: left;
+margin-top: 1px;
+margin-left: 1px;
+margin-right: 1px;
+background-image: url("../imga/a (5).jpg");
+}
+
+#u {
+border-bottom-width: 1px;
+border-right-width: 0px;
+border-top-width: 1px;
+border-left-width: 1px;
+float: left;
+margin-top: 1px;
+background-image: url("../imga/a (6).jpg");
+}
+#t {
+border-bottom-width: 0px;
+border-right-width: 1px;
+border-top-width: 1px;
+border-left-width: 0px;
+float: left;
+margin-top: 1px;
+background-image: url("../imga/a (7).jpg");
+}
+
+#s {
+border-bottom-width: 0px;
+border-right-width: 1px;
+border-top-width: 1px;
+border-left-width: 1px;
+float: right;
+margin-top: 1px;
+margin-right: 1px;
+background-image: url("../imga/a (8).jpg");
+}
+
+
+#r {
+border-bottom-width: 0px;
+border-right-width: 0px;
+border-top-width: 1px;
+border-left-width: 1px;
+float: right;
+margin-top: 1px;
+background-image: url("../imga/a (9).jpg");
+}
+
+.imblo {
+background: black;
+width: 116px;
+height: 116px;
+border-color: black;
+border-style: solid;
+display: inline;
+background-size: cover;
+background-position: center;
+}
+
+.f {
+margin-top: 30px;
+display: none;
+}
+
+#bnm  {
+width: 100%;
+height: 77px;
+margin-top: 10px;
+}
+
+#as {
+height: 55px;
+width: 77px;
+display: block;
+margin: 0px;
+padding: 0px;
+margin-left: 20px;
+text-align: center;
+background : #F5FF8F;
+padding-left: 20px;
+padding-right: 20px;
+border-color: #F5FF8F;
+border-style: solid;
+border-width: 2px;
+}
+
+#sd {
+width: 77px;
+height: 55px;
+dislay: inline;
+float: right;
+margin-top: -60px;
+margin-right: 20px;
+padding: 0px;
+text-align: center;
+background: #F5FF8F;
+padding-left: 20px;
+padding-right: 20px;
+border-color: #F5FF8F;
+border-style: solid;
+border-width: 2px;
+}
+
+#asd , #asf , #scr , #acr {
+margin: 0px;
+padding: 0px;
+}
+
+#scr , #acr {
+font-size: 30px;
+margin-top: 10px;
+margin-left: 5px;
+display: block;
+}
+
+.ex1 {
+display: none;
+}
+
+#as img , #sd img {
+display: block;
+text-align: center;
+margin: 0 auto;
+}
+
+.f {
+transition-property: display;
+transition-duration: 10s;
+transition-delay: 0.3s;
+}
+
+#aza {
+margin-top: 5px;
+}

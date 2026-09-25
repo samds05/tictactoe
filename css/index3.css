@@ -1,0 +1,278 @@
+#divi ,#login1 {
+background: pink;
+width: auto;
+height: auto;
+border-width: 3px;
+border-style: solid;
+border-color: orange;
+margin-top: 20px;
+text-align: center;
+}
+
+#divii , #login2 {
+background: blue;
+width: auto;
+height: auto;
+margin-left: 0px;
+padding: 0px;
+border-width: 3px;
+border-style: solid;
+border-color: orange;
+display: block;
+}
+
+#logo {
+margin-top: 10px;
+
+}
+
+#pos {
+margin-top: 7px;
+margin-left: 20px;
+}
+
+#header , #headers {
+color: orange;
+}
+
+.mp , .h {
+text-align: center;
+display: inline;
+color: blue;
+font-size: 101%;
+}
+
+.up {
+text-align: center;
+display: inline;
+}
+
+#mn {
+display: block;
+text-align: center;
+margin-top: 10px;
+}
+
+#aa , #submit {
+background: maroon;
+color: #00C4FF;
+width: 100px;
+height: 30px;
+margin-top: 10px;
+}
+.pop {
+font-size: larger;
+}
+
+.pops {
+color: blue;
+}
+
+
+#frontp {
+margin-top: 7px;
+
+}
+#blank {
+width: auto;
+height: 45px;
+}
+.posdiv {
+position: relative;
+display: inline;
+top: 5px;
+}
+#ml {
+top: 10px;
+clear: right;
+float: left;
+margin-left: 10px;
+}
+#al {
+clear: right;
+float: center;
+margin-bottom: 5px;
+
+}
+#zl {
+float: right;
+margin-right: 10px;
+}
+#mmmm {
+display: inline;
+position: relative;
+}
+#main_heading {
+font-family: monospace;
+color: red;
+font-size: 30px;
+text-align: center;
+font-weight: bold;
+display: inline;
+}
+#mdiv {
+height: 45px;
+position: fixed;
+width: 100%;
+text-align: center;
+}
+
+.linkas {
+margin-bottom: -5px;
+}
+
+#linkas {
+position: relative;
+margin-top: 2px;
+}
+
+#navid {
+margin: -10px 0px 0px 5px;
+}
+
+.button2 {
+margin-bottom: 0px;
+color:  black;
+}
+
+a#mnmm {
+color: green;
+}
+
+#frame {
+background: grey;
+position: fixed;
+width: 100%;
+height: 100%;
+opacity: 0.5;
+display: none;
+text-align: center;
+}
+
+#loading {
+width: auto;
+height: auto;
+position: fixed;
+top: 50%;
+left: 45%;
+display: none;
+
+}
+
+
+.warnn {
+float: left;
+margin-top: 7px;
+display: inline;
+opacity: 0;
+}
+
+.label {
+display: block;
+margin-right: 50%;
+}
+#showu {
+display: inline;
+float: right;
+opacity: 0;
+
+}
+
+
+#showp {
+float: right;
+position: absolute;
+margin-left: -45px;
+}
+
+#jkl {
+width: 100%;
+height: auto;
+}
+
+
+#warnpass {
+margin-left: 20px;
+}
+
+#pos {
+margin-bottom: 15px;
+}
+
+.vpn {
+
+border-style: solid;
+border-width: 3px;
+font-size: auto;
+padding: 10px;
+font-size: 90%;
+font-weight: bold;
+font-style: monospace;
+outline: none;
+border-color: grey;
+}
+
+.input {
+padding: 2px 8px;
+padding-left: 10px;
+margin: 0px;
+width: 100%;
+height: 28px;
+font-size: auto;
+font-size: 17px;
+font-weight: bold;
+font-style: monospace;
+border: none;
+outline: none;
+border-color: grey;
+background: none;
+}
+
+.fs {
+padding: 0px;
+margin-left: 50px;
+width: 250px;
+height: 53px;
+text-align: center;
+background: none;
+overflow: hidden;
+display: block;
+}
+
+
+.leg {
+text-align: left;
+}
+
+.leg::after {
+content:"*";
+color: red;
+}
+
+.fs:focus-within {
+border-color: green;
+border-radius: 15px;
+}
+
+.fs:focus-within input {
+color: green;
+}
+
+#resend {
+color: green;
+display: block;
+position: relative;
+margin-left: -46%;
+margin-top: 5px;
+}
+
+#fsec2 {
+width: 0 auto;
+height: 0 auto;
+display: none;
+}
+#fsec3 {
+display: none;
+}
+
+
