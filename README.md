@@ -3,7 +3,7 @@
 A sleek, interactive, and responsive web-based **Tic-Tac-Toe** game built using vanilla front-end technologies. This project brings the classic experience to life with smooth animations, audio feedback, and a clean, responsive layout.
 
 ## 🚀 Live Demo
-Check out the live game here: [Play Tic-Tac-Toe](https://github.io)
+Check out the live game here: [Play Tic-Tac-Toe](http://dcode.epizy.com/)
 
 ## ✨ Features
 * **Classic Gameplay:** Standard 3x3 grid following traditional rules. No extra gimmicks or power-ups.
